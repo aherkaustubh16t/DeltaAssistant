@@ -7,5 +7,5 @@ speechbrain>=0.5.0
 torch    # choose appropriate torch for your system; if install fails, install torch per https://pytorch.org
 tk     # usually installed with Python
 pillow
-websockets     # optional
+websockets     
 requests
